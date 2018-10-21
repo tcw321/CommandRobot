@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CommandRobot.iml" filepath="$PROJECT_DIR$/CommandRobot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CommandRobot_main.iml" filepath="$PROJECT_DIR$/.idea/modules/CommandRobot_main.iml" group="CommandRobot" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CommandRobot_test.iml" filepath="$PROJECT_DIR$/.idea/modules/CommandRobot_test.iml" group="CommandRobot" />
+    </modules>
+  </component>
+</project>

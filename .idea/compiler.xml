@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="building-java-libraries_main" target="1.8" />
+      <module name="building-java-libraries_test" target="1.8" />
+      <module name="CommandRobot_main" target="1.8" />
+      <module name="CommandRobot_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="HaskellBuildOptions">
+    <ghcPath>/usr/local/bin/ghc</ghcPath>
+    <cabalPath>$USER_HOME$/Library/Haskell/bin/cabal</cabalPath>
+    <stackPath>/usr/local/bin/stack</stackPath>
+  </component>
+</project>
